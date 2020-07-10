@@ -1,5 +1,5 @@
 [package]
-name = "IRCServer"
+name = "irc"
 version = "0.1.0"
 authors = ["Eoan <patriotrosii2019@mail.ru>"]
 edition = "2018"
